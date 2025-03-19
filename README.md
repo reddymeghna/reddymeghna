@@ -1,6 +1,6 @@
-- 👋 Hi, I’m meghna reddy
-- 👀 I love to explore and face new challenges
-- 🌱 I’m in B-tech 3rd year
+- 👋 Hi, I’m meghna reddy, a software developer passionate about building scalable web applications and solving complex problems.
+- 🌱 I’m learning Artificial Intelligence and Machine Learning
+- ✨ Aspiring full-stack developer specializing in React and Node.js.
 - 📫 How to reach me gmail: meghna.malreddy@gmail.com
 
 
