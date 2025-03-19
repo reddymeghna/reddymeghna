@@ -1,6 +1,6 @@
 - 👋 Hi, I’m meghna reddy
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning B-tech
+- 👀 I love to explore and face new challenges
+- 🌱 I’m in B-tech 3rd year
 - 📫 How to reach me gmail: meghna.malreddy@gmail.com
 
 
