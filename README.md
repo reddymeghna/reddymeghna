@@ -1,6 +1,6 @@
-- 👋 Hi, I’m meghna reddy, a software developer passionate about building scalable web applications and solving complex problems.
+- 👋 Hi, I’m Meghna Reddy, a computer science student passionate about building scalable web applications and solving complex problems.
 - 🌱 I’m learning Artificial Intelligence and Machine Learning
-- ✨ Aspiring full-stack developer specializing in React and Node.js.
+- ✨ Aspiring AI Engineer interested in LLMs and agentic workflows
 - 📫 How to reach me gmail: meghna.malreddy@gmail.com
 
 
