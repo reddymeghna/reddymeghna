@@ -3,8 +3,8 @@
 - ✨ Aspiring AI Engineer interested in LLMs and agentic workflows
 - 📫 How to reach me gmail: meghna.malreddy@gmail.com
 - Deployed Projects:
--> https://travel-planner-peach-tau.vercel.app/
--> https://text-sentiment-analyzer-tau.vercel.app/
+- https://travel-planner-peach-tau.vercel.app/
+- https://text-sentiment-analyzer-tau.vercel.app/
 
 
 <!---
